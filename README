@@ -1,50 +1,39 @@
-Welcome to the NLP Pipeline Project 🚀
-This repository demonstrates a complete Natural Language Processing (NLP) workflow built step-by-step, starting from raw text and ending with a real-world NLP task.
+# 🧠 NLP Pipeline Project – From Text to Intelligence
 
-This project shows how machines understand human language using Python.
+Welcome to the **NLP Pipeline Project** 🚀  
+This repository demonstrates a **complete Natural Language Processing (NLP) workflow**, starting from raw text and ending with a real-world NLP task.
 
-📌 What is NLP?
+This project is designed as a **step-by-step pipeline** to understand how machines process human language.
 
-Natural Language Processing (NLP) is a branch of Artificial Intelligence that helps computers understand, process, and analyze human language such as:
+---
 
-Reviews
+## 📌 What is NLP?
 
-Tweets
+**Natural Language Processing (NLP)** is a field of Artificial Intelligence that enables computers to understand, interpret, and work with human language such as:
 
-Emails
+- Reviews
+- Tweets
+- Emails
+- Chat messages
+- Articles
+- Social media text
 
-Chat messages
+---
 
-Articles
+## 🔥 Project Objective
 
-Social media posts
+The goal of this project is to build a **complete NLP pipeline** from scratch and understand each stage practically using Python.
 
-🎯 Project Goal
+By the end of this project, we can:
 
-The goal of this project is to understand and implement the complete NLP pipeline practically.
+✅ Clean noisy text  
+✅ Convert text into tokens  
+✅ Remove unimportant words  
+✅ Reduce words to their root form  
+✅ Convert text into numerical features  
+✅ Perform Sentiment Analysis  
 
-By completing this project, we can:
+---
 
-✅ Clean raw and noisy text
-✅ Break text into words and sentences
-✅ Remove unnecessary words
-✅ Reduce words to their base form
-✅ Convert text into numerical features
-✅ Perform Sentiment Analysis
+## 🔁 Complete NLP Pipeline Flow
 
-🔁 Complete NLP Pipeline Flow
-Raw Text
-   ↓
-Text Cleaning / Preprocessing
-   ↓
-Tokenization
-   ↓
-Stopwords Removal
-   ↓
-Stemming
-   ↓
-Feature Extraction (Bag of Words)
-   ↓
-Feature Extraction (TF-IDF)
-   ↓
-Sentiment Analysis
